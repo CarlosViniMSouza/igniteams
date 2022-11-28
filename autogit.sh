@@ -1,4 +1,4 @@
 git add .
-git commit -m "@types/styled-component in DevDependencies"
+git commit -m "successfully emulated project"
 git push -u origin main
 git status
