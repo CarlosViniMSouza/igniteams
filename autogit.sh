@@ -1,4 +1,4 @@
 git add .
-git commit -m "Next Lesson: Componente de Loading"
+git commit -m "Next Lesson: Estilizando a StatusBar"
 git push -u origin main
 git status
