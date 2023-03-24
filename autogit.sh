@@ -1,4 +1,4 @@
 git add .
-git commit -m "Resolvendo conflito de tipagem do Styled Componente"
+git commit -m "deploy no Expo | Trabalho concluido"
 git push -u origin main
 git status
